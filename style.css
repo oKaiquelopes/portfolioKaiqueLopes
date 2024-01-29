@@ -591,6 +591,7 @@ svg{
     }
     #locais{
         height: 35vh;
+        margin-top: 5%;
     }
     .title-sect-locais{
         display: flex;
