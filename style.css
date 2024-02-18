@@ -14,23 +14,24 @@ body{
 .cabecalho{
     display: flex;
     width: 100%;
-    padding: 15px 20px;
     align-items: center;
     position: fixed;
     background-color: rgba(24, 24, 24, 1);
 }
 .img-header{
     display: flex;
-    align-items: center;
-    justify-content: center;
     width: 15%;
+    margin-left: 3%;
+    margin-top: 3%;
+    margin-bottom: 3%;
     max-height: auto;
     user-select: none;
 }
 .img-header img{
     display: flex;
-    width: 100%;
-    max-height: auto;
+    width: 60px;
+    height: 60px;
+    user-select: none;
 }
 #home{
     display: flex;
@@ -347,6 +348,24 @@ svg{
     margin-top: 10%;
 }
 .pLocal2{
+    color: #84898E;
+    font-family: 'Space Grotesk';
+    font-size: 0.9rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 1%;
+}
+.tituloLocal3{
+    color: #E6E6E6;
+    font-family: 'Space Grotesk';
+    font-size: 1.2rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 10%;
+}
+.pLocal3{
     color: #84898E;
     font-family: 'Space Grotesk';
     font-size: 0.9rem;
