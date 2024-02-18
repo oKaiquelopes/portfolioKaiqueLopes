@@ -679,6 +679,24 @@ svg{
         margin-top: 1%;
         margin-left: 3%;
     }
+        .tituloLocal3{
+        color: #E6E6E6;
+        font-size: 1rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-top: 5%;
+        margin-left: 3%;
+    }
+    .pLocal3{
+        color: #84898E;
+        font-size: 0.8rem;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-top: 1%;
+        margin-left: 3%;
+    }
     #rodape{
         height: 350px;
     }
